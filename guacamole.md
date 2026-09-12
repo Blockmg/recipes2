@@ -8,8 +8,8 @@
 *2 limes
 
 ##Instructions
-###Cut and mix together
+- Cut and mix together
+- an ill-advised change
 
-```{r}
 
-```
+

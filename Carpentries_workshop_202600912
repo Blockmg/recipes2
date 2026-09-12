@@ -5,4 +5,16 @@ Instructors: Micaele, Sarah S., Devin,
 Command line review
 * cd = change working directory
 * pwd = present working directory
+* . = "present directory"
+* .. = "up a directory"
+* ../../ "up two directories"
+* touch = create a new file
+
+
+
+Git basics
+
+https://swcarpentry.github.io/git-novice/
+
+
 * 
