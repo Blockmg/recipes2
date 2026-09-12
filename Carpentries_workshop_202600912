@@ -14,6 +14,11 @@ Command line review
 Git basics
 
 https://swcarpentry.github.io/git-novice/
+* git status - always do first!
+* make changes (rm to remove, nano to make a file, touch to make a file, mkdir to make a file, etc.)
+* git add - to stage
+* git commit -m "notes about what changes were made"
+
 
 
 * goat path - no need to learn everything about every tool
