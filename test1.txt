@@ -1,0 +1,5 @@
+test test test
+Went well!
+
+git has two steps, Add to get to staging area, and then commit to get to repo, then push to get to github to share with others!
+Cool!
