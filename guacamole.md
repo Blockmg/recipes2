@@ -10,7 +10,6 @@
 ##Instructions
 ###Cut and mix together
 
-``{r}
-sd
+```{r}
 
-``
+```
