@@ -1,6 +1,6 @@
 Carpentries workshop 
 Date: 9/12/2026
-Instructors: Micaele, Sarah S., Devin, 
+Instructors: Micaele, Sarah S., Devin, Steve
 
 Command line review
 * cd = change working directory
@@ -9,7 +9,6 @@ Command line review
 * .. = "up a directory"
 * ../../ "up two directories"
 * touch = create a new file
-
 
 
 Git basics
